@@ -1,0 +1,551 @@
+2024-02-23 14:54:31 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 14:54:32 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 14:54:32 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 14:54:32 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 14:54:32 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 14:54:32 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 14:54:32 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 14:54:32 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:54:32 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:54:32 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:54:33 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 14:54:34 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:54:34 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 14:54:34 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 14:54:34 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:54:35 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:54:35 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:54:35 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:54:35 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:54:35 ERROR Telematics Services:113 - Error in excelFileRead method: C:\Users\saugaste\eclipse-workspace\RestAssured_WA\testartifacts\TestData.OCIQA1\DTC.xlsx (The system cannot find the path specified)
+2024-02-23 14:54:35 ERROR Telematics Services:114 - Trace: java.io.FileNotFoundException: C:\Users\saugaste\eclipse-workspace\RestAssured_WA\testartifacts\TestData.OCIQA1\DTC.xlsx (The system cannot find the path specified)
+2024-02-23 14:54:35 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:54:35 ERROR Telematics Services:119 - Trace: java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFWorkbook.getSheet(String)" because "driver.DriverScript.workbook" is null
+2024-02-23 14:58:20 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 14:58:20 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 14:58:20 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 14:58:20 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 14:58:20 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 14:58:20 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 14:58:20 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 14:58:20 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:58:20 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:58:20 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:58:21 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 14:58:22 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:58:22 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 14:58:23 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:23 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:24 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:24 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 14:58:24 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 14:58:24 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 14:58:24 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 14:58:24 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 14:58:24 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:24 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:24 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 14:58:24 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:58:24 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:58:24 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 14:58:24 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 14:58:24 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 14:58:24 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 14:58:24 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 14:58:24 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 14:58:28 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 14:58:28 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 14:58:28 ERROR Telematics Services:108 - Exception in PostLocation service. Reason:- java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 14:58:28 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:58:28 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:58:28 INFO  Telematics Services:49 - Entered in to failTest method.
+2024-02-23 14:58:28 INFO  Telematics Services:54 - <span style='font-weight:bold;'>Test Case:</span> Post Location Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in PostLocation service. Reason:- Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 14:58:28 INFO  Telematics Services:55 - Exit from failTest method.
+2024-02-23 14:58:28 INFO  Telematics Services:116 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in PostLocation service. Reason:- Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 14:58:28 INFO  Telematics Services:63 - Execution started for TestCase No:2
+2024-02-23 14:58:28 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 14:58:28 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 14:58:28 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 14:58:28 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 14:58:28 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 14:58:28 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 14:58:28 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 14:58:28 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:58:28 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:58:28 INFO  Telematics Services:41 - Entered in to passTest method.
+2024-02-23 14:58:28 INFO  Telematics Services:44 - Test Case: Test Case: Post Location Data<br />Result: PASS.<br />Result: PASS.
+2024-02-23 14:58:28 INFO  Telematics Services:45 - Exit from passTest method.
+2024-02-23 14:58:28 INFO  Telematics Services:125 - Execution status of Test Case number: '2' is : PASS 
+2024-02-23 14:58:28 INFO  Telematics Services:63 - Execution started for TestCase No:3
+2024-02-23 14:58:28 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 14:58:28 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 14:58:28 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 14:58:28 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 14:58:28 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 14:58:29 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 14:58:29 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 14:58:29 ERROR Telematics Services:108 - Exception in PostLocation service. Reason:- java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 14:58:29 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:58:29 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:58:29 INFO  Telematics Services:49 - Entered in to failTest method.
+2024-02-23 14:58:29 INFO  Telematics Services:54 - <span style='font-weight:bold;'>Test Case:</span> Post Location Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in PostLocation service. Reason:- Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 14:58:29 INFO  Telematics Services:55 - Exit from failTest method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Execution status of Test Case number: '3' is : FAIL. Failure reason is: Exception in PostLocation service. Reason:- Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 14:58:29 INFO  Telematics Services:138 - Exit from PostLocation method.
+2024-02-23 14:58:29 INFO  Telematics Services:71 - Exit from serviceRedirection method.
+2024-02-23 14:58:29 INFO  Telematics Services:238 - Entered in to getFinalResult (String) method.
+2024-02-23 14:58:29 INFO  Telematics Services:255 - Exit from getFinalResult (String) method.
+2024-02-23 14:58:29 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 14:58:29 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 14:58:29 INFO  Telematics Services:88 - Execution completed for PostLocation. Final result is:FAIL
+2024-02-23 14:58:29 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:99 - UpdateLocation is not selected for execution.
+2024-02-23 14:58:29 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:99 - GetLocation is not selected for execution.
+2024-02-23 14:58:29 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 14:58:29 INFO  Telematics Services:99 - DeleteLocation is not selected for execution.
+2024-02-23 14:58:29 INFO  Telematics Services:72 - Entered in to endReport method.
+2024-02-23 14:58:30 INFO  Telematics Services:75 - Exit from endReport method.
+2024-02-23 14:58:30 INFO  Telematics Services:108 - Exit from executeSuite method
+2024-02-23 15:00:30 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:00:30 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:00:30 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:00:30 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:00:30 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:00:30 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:00:30 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:00:30 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:00:30 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:00:30 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:00:31 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:00:32 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:00:32 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:00:32 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:00:32 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:00:33 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:00:33 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:33 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:34 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:34 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:00:34 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:00:34 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:00:34 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:00:34 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:00:34 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:00:34 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:00:34 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:00:34 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:00:34 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:00:34 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:00:34 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:00:34 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:00:34 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:00:34 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:00:34 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:00:39 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:00:49 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:01:42 ERROR Telematics Services:108 - Exception in PostLocation service. Reason:- java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "name" is null
+2024-02-23 15:02:50 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:02:50 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:02:50 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:02:50 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:02:50 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:02:50 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:02:50 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:02:50 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:02:50 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:02:50 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:02:51 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:02:52 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:02:52 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:02:52 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:02:52 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:02:53 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:53 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:02:53 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:02:54 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:02:54 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:02:54 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:02:54 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:02:54 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:02:54 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:02:54 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:02:54 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:02:54 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:02:54 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:02:54 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:02:54 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:02:59 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:03:01 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:04:34 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:04:34 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:04:34 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:04:34 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:04:34 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:04:34 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:04:34 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:04:34 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:04:34 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:04:34 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:04:36 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:04:37 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:04:37 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:04:37 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:04:37 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:37 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:37 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:04:38 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:04:38 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:04:38 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:04:38 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:04:38 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:04:38 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:04:38 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:04:38 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:04:38 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:04:39 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:04:39 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:04:39 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:04:39 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:04:39 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:04:39 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:04:39 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:04:44 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:04:46 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:07:10 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:07:10 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:07:10 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:07:10 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:07:10 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:07:10 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:07:10 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:07:10 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:07:10 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:07:10 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:07:12 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:07:12 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:07:12 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:07:13 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:07:13 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:13 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:13 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:13 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:13 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:07:14 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:07:14 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:07:14 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:07:14 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:07:14 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:07:14 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:07:14 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:07:14 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:07:14 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:07:14 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:07:14 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:07:14 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:07:14 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:07:14 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:07:21 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:07:23 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:08:22 ERROR Telematics Services:108 - Exception in PostLocation service. Reason:- java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" because "utilities.ExcelOps.rSheet" is null
+2024-02-23 15:12:23 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:12:23 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:12:23 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:12:23 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:12:23 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:12:23 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:12:23 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:12:23 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:12:23 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:12:23 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:12:24 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:12:25 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:12:25 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:12:25 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:12:25 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:26 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:26 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:12:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:12:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:27 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:12:27 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:12:27 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:12:27 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:12:27 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:12:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:12:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:12:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:12:28 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:12:28 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:12:28 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:12:28 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:12:28 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:12:28 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:12:28 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:12:28 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:12:33 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:12:38 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:13:01 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:13:01 ERROR Telematics Services:113 - Error in excelFileRead method: UpdateLocation.xlsx (The system cannot find the file specified)
+2024-02-23 15:13:01 ERROR Telematics Services:114 - Trace: java.io.FileNotFoundException: UpdateLocation.xlsx (The system cannot find the file specified)
+2024-02-23 15:13:01 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:24 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:30:24 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:30:24 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:30:24 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:30:24 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:30:24 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:30:24 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:30:24 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:30:24 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:30:24 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:30:25 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:30:26 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:30:26 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:30:27 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:30:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:27 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:27 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:30:28 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:30:28 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:30:28 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:30:28 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:30:28 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:30:28 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:30:28 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:30:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:30:28 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:30:29 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:30:29 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:30:29 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:30:29 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:30:29 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:30:29 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:30:29 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:30:34 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:30:51 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:31:09 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:31:16 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:33:56 ERROR Telematics Services:108 - Exception in PostLocation service. Reason:- java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFRow.getLastCellNum()" because the return value of "org.apache.poi.xssf.usermodel.XSSFSheet.getRow(int)" is null
+2024-02-23 15:50:55 INFO  Telematics Services:28 - Entered in to executeSuite method
+2024-02-23 15:50:55 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-23 15:50:55 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-23 15:50:55 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:50:55 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:50:55 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-23 15:50:55 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-23 15:50:55 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:50:55 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:50:55 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:50:56 INFO  Telematics Services:83 - Creating an excelworkbook in CreateRow method.
+2024-02-23 15:50:57 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:50:57 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-23 15:50:58 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-23 15:50:58 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:58 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:58 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:58 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:58 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:99 - SetEmployee is not selected for execution.
+2024-02-23 15:50:59 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:99 - GetEmployee is not selected for execution.
+2024-02-23 15:50:59 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-23 15:50:59 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-23 15:50:59 INFO  Telematics Services:81 - Execution started for PostLocation
+2024-02-23 15:50:59 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-23 15:50:59 INFO  Telematics Services:32 - Entered in to PostLocation method.
+2024-02-23 15:50:59 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:116 - Exit from excelFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-23 15:50:59 INFO  Telematics Services:78 - Entered in to createRow method.
+2024-02-23 15:50:59 INFO  Telematics Services:101 - Exit from createRow method.
+2024-02-23 15:50:59 INFO  Telematics Services:63 - Execution started for TestCase No:1
+2024-02-23 15:50:59 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-23 15:50:59 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-23 15:50:59 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-23 15:50:59 INFO  Telematics Services:30 - Entered in to postMethod method.
+2024-02-23 15:51:05 INFO  Telematics Services:43 - Exit from postMethod method.
+2024-02-23 15:51:10 INFO  Telematics Services:117 - Entered in to responseCodeValidation method.
+2024-02-23 15:52:12 INFO  Telematics Services:105 - Entered in to excelFileRead method.
+2024-02-23 15:52:19 INFO  Telematics Services:116 - Exit from excelFileRead method.

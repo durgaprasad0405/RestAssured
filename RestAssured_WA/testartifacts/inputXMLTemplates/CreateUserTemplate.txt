@@ -1,0 +1,9 @@
+{
+  "userId": payload_userId,
+  "firstName": "payload_firstName",
+  "lastName": "payload_lastName",
+  "username": "payload_username",
+  "password": "payload_password",
+  "gender": "payload_gender",
+  "userTypeId": payload_userTypeId
+}

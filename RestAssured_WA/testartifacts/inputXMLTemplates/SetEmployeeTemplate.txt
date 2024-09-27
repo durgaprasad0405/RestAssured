@@ -1,0 +1,15 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://sample.com/reservation/guest/types">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <typ:addEmployee>
+         <!--Optional:-->
+         <typ:name>payload_name</typ:name>
+         <!--Optional:-->
+         <typ:id>payload_id</typ:id>
+         <!--Optional:-->
+         <typ:Department>payload_Department</typ:Department>
+         <!--Optional:-->
+         <typ:age>payload_age</typ:age>
+      </typ:addEmployee>
+   </soapenv:Body>
+</soapenv:Envelope>

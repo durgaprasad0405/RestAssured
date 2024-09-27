@@ -1,0 +1,276 @@
+2024-02-26 16:51:15 INFO  Telematics Services:25 - Entered in to executeSuite method
+2024-02-26 16:51:15 INFO  Telematics Services:45 - Entered in to createFolder method.
+2024-02-26 16:51:15 INFO  Telematics Services:51 - Exit from createFolder method.
+2024-02-26 16:51:15 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-26 16:51:15 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-26 16:51:15 INFO  Telematics Services:129 - Entered in to dateWithMilliSeconds method.
+2024-02-26 16:51:15 INFO  Telematics Services:132 - Exit from dateWithMilliSeconds method.
+2024-02-26 16:51:15 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-26 16:51:15 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-26 16:51:15 INFO  Telematics Services:75 - Entered in to createRow method.
+2024-02-26 16:51:15 INFO  Telematics Services:80 - Creating an excelworkbook in CreateRow method.
+2024-02-26 16:51:16 INFO  Telematics Services:98 - Exit from createRow method.
+2024-02-26 16:51:16 INFO  Telematics Services:15 - Entered in to onStart method.
+2024-02-26 16:51:16 INFO  Telematics Services:31 - Exit from onStart method.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:96 - SetEmployee is not selected for execution.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:96 - GetEmployee is not selected for execution.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:35 - Entered in to extentSummary method.
+2024-02-26 16:51:16 INFO  Telematics Services:37 - Exit from extentSummary method.
+2024-02-26 16:51:16 INFO  Telematics Services:78 - Execution started for PostLocation
+2024-02-26 16:51:16 INFO  Telematics Services:56 - Entered in to serviceRedirection method.
+2024-02-26 16:51:16 INFO  Telematics Services:30 - Entered in to PostLocation method.
+2024-02-26 16:51:16 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:16 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:75 - Entered in to getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:87 - Exit from getProperties method.
+2024-02-26 16:51:16 INFO  Telematics Services:75 - Entered in to createRow method.
+2024-02-26 16:51:17 INFO  Telematics Services:98 - Exit from createRow method.
+2024-02-26 16:51:17 INFO  Telematics Services:61 - Execution started for TestCase No:1
+2024-02-26 16:51:17 INFO  Telematics Services:75 - Entered in to createRow method.
+2024-02-26 16:51:17 INFO  Telematics Services:98 - Exit from createRow method.
+2024-02-26 16:51:17 INFO  Telematics Services:129 - Execution status of Test Case number: '1' is : Execution Not required 
+2024-02-26 16:51:17 INFO  Telematics Services:61 - Execution started for TestCase No:2
+2024-02-26 16:51:17 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-26 16:51:17 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-26 16:51:17 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-26 16:51:17 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-26 16:51:17 INFO  Telematics Services:22 - Entered in to postMethod method.
+2024-02-26 16:51:19 INFO  Telematics Services:35 - Exit from postMethod method.
+2024-02-26 16:51:19 INFO  Telematics Services:109 - Entered in to responseCodeValidation method.
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:51 - Entered into excelWriteData
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:64 - Exit from excelWriteData.
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:51 - Entered into excelWriteData
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:64 - Exit from excelWriteData.
+2024-02-26 16:51:19 INFO  Telematics Services:75 - Entered in to createRow method.
+2024-02-26 16:51:19 INFO  Telematics Services:98 - Exit from createRow method.
+2024-02-26 16:51:19 INFO  Telematics Services:41 - Entered in to passTest method.
+2024-02-26 16:51:19 INFO  Telematics Services:44 - Test Case: Test Case: Post Location Data<br />Result: PASS.<br />Result: PASS.
+2024-02-26 16:51:19 INFO  Telematics Services:45 - Exit from passTest method.
+2024-02-26 16:51:19 INFO  Telematics Services:120 - Execution status of Test Case number: '2' is : PASS 
+2024-02-26 16:51:19 INFO  Telematics Services:61 - Execution started for TestCase No:3
+2024-02-26 16:51:19 INFO  Telematics Services:31 - Entered in to generateInputPayload method.
+2024-02-26 16:51:19 INFO  Telematics Services:93 - Entered in to textFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:109 - Exit from textFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:56 - Exit from generateInputPayload method.
+2024-02-26 16:51:19 INFO  Telematics Services:22 - Entered in to postMethod method.
+2024-02-26 16:51:19 INFO  Telematics Services:35 - Exit from postMethod method.
+2024-02-26 16:51:19 INFO  Telematics Services:109 - Entered in to responseCodeValidation method.
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:51 - Entered into excelWriteData
+2024-02-26 16:51:19 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:19 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:64 - Exit from excelWriteData.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:51 - Entered into excelWriteData
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:64 - Exit from excelWriteData.
+2024-02-26 16:51:20 INFO  Telematics Services:75 - Entered in to createRow method.
+2024-02-26 16:51:20 INFO  Telematics Services:98 - Exit from createRow method.
+2024-02-26 16:51:20 INFO  Telematics Services:41 - Entered in to passTest method.
+2024-02-26 16:51:20 INFO  Telematics Services:44 - Test Case: Test Case: Post Location Data<br />Result: PASS.<br />Result: PASS.
+2024-02-26 16:51:20 INFO  Telematics Services:45 - Exit from passTest method.
+2024-02-26 16:51:20 INFO  Telematics Services:120 - Execution status of Test Case number: '3' is : PASS 
+2024-02-26 16:51:20 INFO  Telematics Services:133 - Exit from PostLocation method.
+2024-02-26 16:51:20 INFO  Telematics Services:71 - Exit from serviceRedirection method.
+2024-02-26 16:51:20 INFO  Telematics Services:253 - Entered in to getFinalResult (String) method.
+2024-02-26 16:51:20 INFO  Telematics Services:270 - Exit from getFinalResult (String) method.
+2024-02-26 16:51:20 INFO  Telematics Services:75 - Entered in to createRow method.
+2024-02-26 16:51:20 INFO  Telematics Services:98 - Exit from createRow method.
+2024-02-26 16:51:20 INFO  Telematics Services:85 - Execution completed for PostLocation. Final result is:PASS
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:96 - UpdateLocation is not selected for execution.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:96 - GetLocation is not selected for execution.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:102 - Entered in to excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:113 - Exit from excelFileRead method.
+2024-02-26 16:51:20 INFO  Telematics Services:96 - DeleteLocation is not selected for execution.
+2024-02-26 16:51:20 INFO  Telematics Services:72 - Entered in to endReport method.
+2024-02-26 16:51:20 INFO  Telematics Services:75 - Exit from endReport method.
+2024-02-26 16:51:20 INFO  Telematics Services:105 - Exit from executeSuite method
+2024-02-26 16:53:44 INFO  RestAssured WebServices:25 - Entered in to executeSuite method
+2024-02-26 16:53:44 INFO  RestAssured WebServices:45 - Entered in to createFolder method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:51 - Exit from createFolder method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:129 - Entered in to dateWithMilliSeconds method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:132 - Exit from dateWithMilliSeconds method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:129 - Entered in to dateWithMilliSeconds method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:132 - Exit from dateWithMilliSeconds method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:75 - Entered in to getProperties method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:87 - Exit from getProperties method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:75 - Entered in to createRow method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:80 - Creating an excelworkbook in CreateRow method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:98 - Exit from createRow method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:15 - Entered in to onStart method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:31 - Exit from onStart method.
+2024-02-26 16:53:44 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:96 - SetEmployee is not selected for execution.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:96 - GetEmployee is not selected for execution.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:35 - Entered in to extentSummary method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:37 - Exit from extentSummary method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:78 - Execution started for PostLocation
+2024-02-26 16:53:45 INFO  RestAssured WebServices:56 - Entered in to serviceRedirection method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:30 - Entered in to PostLocation method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:87 - Exit from getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:87 - Exit from getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:87 - Exit from getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:87 - Exit from getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:87 - Exit from getProperties method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to createRow method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:98 - Exit from createRow method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:61 - Execution started for TestCase No:1
+2024-02-26 16:53:45 INFO  RestAssured WebServices:75 - Entered in to createRow method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:98 - Exit from createRow method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:129 - Execution status of Test Case number: '1' is : Execution Not required 
+2024-02-26 16:53:45 INFO  RestAssured WebServices:61 - Execution started for TestCase No:2
+2024-02-26 16:53:45 INFO  RestAssured WebServices:31 - Entered in to generateInputPayload method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:93 - Entered in to textFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:109 - Exit from textFileRead method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:56 - Exit from generateInputPayload method.
+2024-02-26 16:53:45 INFO  RestAssured WebServices:22 - Entered in to postMethod method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:35 - Exit from postMethod method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:109 - Entered in to responseCodeValidation method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:51 - Entered into excelWriteData
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:64 - Exit from excelWriteData.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:51 - Entered into excelWriteData
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:64 - Exit from excelWriteData.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:75 - Entered in to createRow method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:98 - Exit from createRow method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:41 - Entered in to passTest method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:44 - Test Case: Test Case: Post Location Data<br />Result: PASS.<br />Result: PASS.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:45 - Exit from passTest method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:120 - Execution status of Test Case number: '2' is : PASS 
+2024-02-26 16:53:48 INFO  RestAssured WebServices:61 - Execution started for TestCase No:3
+2024-02-26 16:53:48 INFO  RestAssured WebServices:31 - Entered in to generateInputPayload method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:93 - Entered in to textFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:109 - Exit from textFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:56 - Exit from generateInputPayload method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:22 - Entered in to postMethod method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:35 - Exit from postMethod method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:109 - Entered in to responseCodeValidation method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:51 - Entered into excelWriteData
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:64 - Exit from excelWriteData.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:51 - Entered into excelWriteData
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:64 - Exit from excelWriteData.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:75 - Entered in to createRow method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:98 - Exit from createRow method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:41 - Entered in to passTest method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:44 - Test Case: Test Case: Post Location Data<br />Result: PASS.<br />Result: PASS.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:45 - Exit from passTest method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:120 - Execution status of Test Case number: '3' is : PASS 
+2024-02-26 16:53:48 INFO  RestAssured WebServices:133 - Exit from PostLocation method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:71 - Exit from serviceRedirection method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:253 - Entered in to getFinalResult (String) method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:270 - Exit from getFinalResult (String) method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:75 - Entered in to createRow method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:98 - Exit from createRow method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:85 - Execution completed for PostLocation. Final result is:PASS
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:96 - UpdateLocation is not selected for execution.
+2024-02-26 16:53:48 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:96 - GetLocation is not selected for execution.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:102 - Entered in to excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:113 - Exit from excelFileRead method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:96 - DeleteLocation is not selected for execution.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:72 - Entered in to endReport method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:75 - Exit from endReport method.
+2024-02-26 16:53:49 INFO  RestAssured WebServices:105 - Exit from executeSuite method

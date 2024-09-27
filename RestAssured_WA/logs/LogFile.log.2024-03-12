@@ -1,0 +1,1320 @@
+2024-03-12 15:45:25 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 15:45:25 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 15:45:25 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 15:45:25 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:45:25 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:45:25 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:45:25 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:45:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:45:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:45:25 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:45:26 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 15:45:27 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:45:27 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 15:45:27 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 15:45:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 15:45:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 15:45:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 15:45:29 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 15:45:29 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 15:45:29 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 15:45:29 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 15:45:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:45:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:45:29 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:45:29 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:45:29 ERROR WebServicesLog:82 - Error in serviceRedirection method: null
+2024-03-12 15:45:29 ERROR WebServicesLog:83 - Trace: java.lang.reflect.InvocationTargetException
+2024-03-12 15:45:29 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 15:45:29 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 15:45:29 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 15:45:29 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:45:29 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:45:29 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:PASS
+2024-03-12 15:45:29 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 15:45:30 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 15:45:30 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 15:46:22 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 15:46:22 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 15:46:22 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 15:46:22 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:46:22 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:46:22 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:46:22 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:46:22 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:22 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:22 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:46:24 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 15:46:25 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:46:25 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 15:46:26 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 15:46:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:26 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 15:46:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 15:46:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 15:46:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 15:46:28 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 15:46:28 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 15:46:28 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 15:46:28 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 15:46:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:46:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:46:28 ERROR WebServicesLog:82 - Error in serviceRedirection method: null
+2024-03-12 15:46:28 ERROR WebServicesLog:83 - Trace: java.lang.reflect.InvocationTargetException
+2024-03-12 15:46:28 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 15:46:28 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 15:46:28 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 15:46:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:46:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:46:28 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:PASS
+2024-03-12 15:46:28 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 15:46:29 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 15:46:29 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 15:46:53 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 15:46:53 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 15:46:53 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 15:46:53 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:46:53 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:46:53 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:46:53 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:46:53 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:53 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:53 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:46:54 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 15:46:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:46:55 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 15:46:55 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 15:46:55 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:56 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 15:46:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 15:46:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 15:46:57 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 15:46:57 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 15:46:57 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 15:46:57 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 15:46:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:46:57 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:46:57 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:46:57 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:46:57 ERROR WebServicesLog:82 - Error in serviceRedirection method: null
+2024-03-12 15:46:57 ERROR WebServicesLog:83 - Trace: java.lang.reflect.InvocationTargetException
+2024-03-12 15:46:57 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 15:46:57 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 15:46:57 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 15:46:57 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:46:57 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:46:57 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:PASS
+2024-03-12 15:46:57 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 15:46:58 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 15:46:58 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 15:50:19 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 15:50:19 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 15:50:19 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 15:50:19 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:50:19 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:50:19 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 15:50:19 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 15:50:19 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:50:19 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:50:19 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:50:21 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 15:50:22 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:50:22 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 15:50:22 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 15:50:22 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:23 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:23 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:23 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:23 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:23 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:23 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 15:50:23 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:24 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 15:50:25 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 15:50:25 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 15:50:25 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 15:50:25 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 15:50:25 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 15:50:25 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 15:50:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 15:50:25 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 15:50:25 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 15:50:25 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 15:54:39 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 15:54:39 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 15:54:39 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 15:54:39 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 16:26:22 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 16:26:22 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 16:26:22 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 16:26:22 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:26:22 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:26:22 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:26:22 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:26:22 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:26:22 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:26:22 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:26:23 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 16:26:24 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:26:24 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 16:26:25 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 16:26:25 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:25 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:25 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 16:26:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 16:26:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:26 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:28 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 16:26:28 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 16:26:28 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 16:26:28 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 16:26:28 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 16:26:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:26:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:26:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:26:28 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:26:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:26:28 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 16:26:33 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 16:26:34 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 16:26:34 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 16:26:34 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 16:27:05 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 16:27:55 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 16:33:31 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 16:33:31 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 16:33:31 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 16:33:31 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:33:31 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:33:31 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:33:31 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:33:31 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:33:31 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:33:31 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:33:32 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 16:33:33 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:33:33 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 16:33:34 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 16:33:34 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 16:33:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:35 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:36 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 16:33:37 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 16:33:37 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 16:33:37 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 16:33:37 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 16:33:37 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 16:33:37 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:33:37 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:33:37 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:33:37 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:33:37 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 16:33:41 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 16:33:42 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 16:33:42 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 16:33:42 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 16:34:49 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 16:34:49 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 16:34:49 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 16:34:49 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:34:49 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:34:49 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:34:49 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:34:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:34:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:34:49 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:34:51 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 16:34:52 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:34:52 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 16:34:52 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 16:34:52 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:53 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 16:34:53 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 16:34:54 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 16:34:54 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 16:34:54 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 16:34:54 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 16:34:54 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:34:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:34:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:34:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:34:55 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 16:34:59 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 16:34:59 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 16:34:59 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 16:34:59 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 16:35:35 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 16:36:22 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 16:40:25 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 16:40:25 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 16:40:25 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 16:40:25 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:40:25 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:40:25 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:40:25 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:40:25 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:40:25 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:40:25 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:40:27 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 16:40:28 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:40:28 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 16:40:28 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 16:40:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:30 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 16:40:31 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 16:40:31 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 16:40:31 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:31 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 16:40:31 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 16:40:31 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 16:40:31 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 16:40:32 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 16:40:32 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:40:32 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:40:32 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:40:32 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:40:32 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:40:32 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 16:40:36 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 16:40:36 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 16:40:36 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 16:40:36 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 16:42:47 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 16:43:32 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 16:48:16 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-03-12 16:48:26 ERROR WebServicesLog:101 - Exception in PostCode service. Reason:- java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 16:48:31 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:48:37 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:49:38 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-03-12 16:49:38 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Post Code Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 16:49:38 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-03-12 16:49:40 INFO  WebServicesLog:109 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 16:49:42 INFO  WebServicesLog:131 - Exit from PostCode method.
+2024-03-12 16:59:42 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 16:59:42 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 16:59:42 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 16:59:42 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:59:42 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:59:42 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 16:59:42 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 16:59:42 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:59:42 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:59:42 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:59:44 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 16:59:45 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:59:45 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 16:59:46 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 16:59:46 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 16:59:47 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:47 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:48 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 16:59:48 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 16:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 16:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 16:59:49 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 16:59:49 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 16:59:49 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 16:59:49 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 16:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 16:59:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 16:59:49 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 16:59:50 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 16:59:50 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 17:00:42 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 17:00:42 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 17:00:42 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 17:00:43 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 17:01:28 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 17:02:07 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 17:16:24 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 17:16:24 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 17:16:24 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 17:16:24 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:16:24 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:16:24 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:16:24 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:16:24 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:16:24 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:16:24 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:16:25 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 17:16:26 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:16:26 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 17:16:27 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 17:16:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:27 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:27 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:28 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 17:16:29 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 17:16:29 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 17:16:29 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 17:16:29 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 17:16:29 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:16:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:16:29 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:16:30 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:16:30 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 17:16:36 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 17:16:36 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 17:16:37 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 17:16:37 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 17:18:51 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 17:19:36 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 17:37:57 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 17:37:57 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 17:37:57 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 17:37:57 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:37:57 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:37:57 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:37:57 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:37:57 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:37:57 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:37:57 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:37:58 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 17:37:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:37:59 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 17:37:59 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 17:37:59 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:00 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:00 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:00 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:00 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:01 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 17:38:02 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 17:38:02 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 17:38:02 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 17:38:02 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 17:38:02 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 17:38:02 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:38:02 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:38:02 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:38:02 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 17:38:02 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 17:38:02 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 17:38:02 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 17:38:02 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 17:38:08 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 17:38:08 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-03-12 17:38:08 ERROR WebServicesLog:101 - Exception in PostCode service. Reason:- java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 17:38:08 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:38:08 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:38:08 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-03-12 17:38:08 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Post Code Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 17:38:08 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-03-12 17:38:08 INFO  WebServicesLog:109 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 17:38:08 INFO  WebServicesLog:131 - Exit from PostCode method.
+2024-03-12 17:38:08 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 17:38:08 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 17:38:08 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 17:38:08 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:38:08 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:38:08 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:FAIL
+2024-03-12 17:38:08 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 17:38:09 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 17:38:09 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 17:47:06 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 17:47:06 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 17:47:06 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 17:47:06 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:47:06 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:47:06 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:47:06 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:47:06 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:47:06 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:47:06 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:47:07 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 17:47:08 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:47:08 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 17:47:09 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 17:47:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:09 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:09 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:10 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 17:47:10 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 17:47:10 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 17:47:10 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 17:47:11 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 17:47:11 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:47:11 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:47:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:47:11 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:47:11 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:47:11 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 17:47:11 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 17:47:11 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 17:47:11 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 17:47:11 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 17:47:11 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 17:47:13 ERROR WebServicesLog:101 - Exception in PostCode service. Reason:- java.lang.IllegalArgumentException: Content-Type header cannot be null cannot be null
+2024-03-12 17:47:13 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:47:13 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:47:13 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-03-12 17:47:13 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Post Code Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Exception in PostCode service. Reason:- Content-Type header cannot be null cannot be null
+2024-03-12 17:47:13 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-03-12 17:47:13 INFO  WebServicesLog:109 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Exception in PostCode service. Reason:- Content-Type header cannot be null cannot be null
+2024-03-12 17:47:13 INFO  WebServicesLog:131 - Exit from PostCode method.
+2024-03-12 17:47:13 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 17:47:13 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 17:47:13 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 17:47:13 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:47:13 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:47:13 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:FAIL
+2024-03-12 17:47:13 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 17:47:14 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 17:47:14 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 17:48:54 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 17:48:54 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 17:48:54 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 17:48:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:48:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:48:54 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 17:48:54 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 17:48:54 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:48:54 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:48:54 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:48:55 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 17:48:56 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:48:56 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 17:48:56 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 17:48:56 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 17:48:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:57 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 17:48:57 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 17:48:58 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 17:48:58 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 17:48:58 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 17:48:58 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 17:48:58 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 17:48:58 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 17:48:58 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:48:59 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:48:59 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 17:48:59 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 17:48:59 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 17:48:59 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 17:48:59 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 17:48:59 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 17:49:04 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 17:49:04 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-03-12 17:49:04 ERROR WebServicesLog:101 - Exception in PostCode service. Reason:- java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 17:49:04 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:49:04 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:49:04 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-03-12 17:49:04 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Post Code Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 17:49:04 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-03-12 17:49:04 INFO  WebServicesLog:109 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 17:49:04 INFO  WebServicesLog:131 - Exit from PostCode method.
+2024-03-12 17:49:04 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 17:49:04 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 17:49:04 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 17:49:04 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 17:49:04 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 17:49:04 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:FAIL
+2024-03-12 17:49:04 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 17:49:05 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 17:49:05 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 18:59:47 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 18:59:47 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 18:59:47 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 18:59:47 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 18:59:47 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 18:59:47 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 18:59:47 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 18:59:47 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 18:59:47 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 18:59:47 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 18:59:49 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 18:59:49 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 18:59:49 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 18:59:49 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 18:59:49 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:50 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 18:59:50 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 18:59:51 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 18:59:51 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 18:59:51 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 18:59:51 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 18:59:51 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 18:59:51 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 18:59:51 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 18:59:51 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 18:59:51 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 18:59:51 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 18:59:51 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 18:59:51 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 18:59:55 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 18:59:55 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-03-12 18:59:55 ERROR WebServicesLog:101 - Exception in PostCode service. Reason:- java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 18:59:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 18:59:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 18:59:55 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-03-12 18:59:55 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Post Code Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 18:59:55 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-03-12 18:59:55 INFO  WebServicesLog:109 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 18:59:55 INFO  WebServicesLog:131 - Exit from PostCode method.
+2024-03-12 18:59:55 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 18:59:55 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 18:59:55 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 18:59:55 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 18:59:55 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 18:59:55 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:FAIL
+2024-03-12 18:59:55 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 18:59:55 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 18:59:55 INFO  WebServicesLog:105 - Exit from executeSuite method
+2024-03-12 19:04:01 INFO  WebServicesLog:25 - Entered in to executeSuite method
+2024-03-12 19:04:01 INFO  WebServicesLog:59 - Entered in to createFolder method.
+2024-03-12 19:04:01 INFO  WebServicesLog:65 - Exit from createFolder method.
+2024-03-12 19:04:01 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 19:04:01 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 19:04:01 INFO  WebServicesLog:143 - Entered in to dateWithMilliSeconds method.
+2024-03-12 19:04:01 INFO  WebServicesLog:146 - Exit from dateWithMilliSeconds method.
+2024-03-12 19:04:01 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 19:04:01 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 19:04:01 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 19:04:02 INFO  WebServicesLog:80 - Creating an excelworkbook in CreateRow method.
+2024-03-12 19:04:03 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 19:04:03 INFO  WebServicesLog:15 - Entered in to onStart method.
+2024-03-12 19:04:03 INFO  WebServicesLog:31 - Exit from onStart method.
+2024-03-12 19:04:03 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:96 - SetEmployee is not selected for execution.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:96 - GetEmployee is not selected for execution.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:96 - PostLocation is not selected for execution.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:96 - UpdateLocation is not selected for execution.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:04 INFO  WebServicesLog:96 - GetLocation is not selected for execution.
+2024-03-12 19:04:04 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:96 - DeleteLocation is not selected for execution.
+2024-03-12 19:04:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:96 - CreateUser is not selected for execution.
+2024-03-12 19:04:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:35 - Entered in to extentSummary method.
+2024-03-12 19:04:05 INFO  WebServicesLog:37 - Exit from extentSummary method.
+2024-03-12 19:04:05 INFO  WebServicesLog:78 - Execution started for PostCode
+2024-03-12 19:04:05 INFO  WebServicesLog:70 - Entered in to serviceRedirection method.
+2024-03-12 19:04:05 INFO  WebServicesLog:30 - Entered in to PostCode method.
+2024-03-12 19:04:05 INFO  WebServicesLog:102 - Entered in to excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:113 - Exit from excelFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:89 - Entered in to getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:101 - Exit from getProperties method.
+2024-03-12 19:04:05 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 19:04:05 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 19:04:05 INFO  WebServicesLog:63 - Execution started for TestCase No:1
+2024-03-12 19:04:05 INFO  WebServicesLog:28 - Entered in to generateInputPayload method.
+2024-03-12 19:04:05 INFO  WebServicesLog:107 - Entered in to textFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:123 - Exit from textFileRead method.
+2024-03-12 19:04:05 INFO  WebServicesLog:53 - Exit from generateInputPayload method.
+2024-03-12 19:04:05 INFO  WebServicesLog:27 - Entered in to postMethod method.
+2024-03-12 19:04:10 INFO  WebServicesLog:40 - Exit from postMethod method.
+2024-03-12 19:04:10 INFO  WebServicesLog:114 - Entered in to responseCodeValidation method.
+2024-03-12 19:04:10 ERROR WebServicesLog:101 - Exception in PostCode service. Reason:- java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 19:04:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 19:04:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 19:04:10 INFO  WebServicesLog:49 - Entered in to failTest method.
+2024-03-12 19:04:10 INFO  WebServicesLog:54 - <span style='font-weight:bold;'>Test Case:</span> Post Code Data<br /><span style='font-weight:bold;'>Result: FAIL.</span> <br /><span style='font-weight:bold;'>Failure Reason is: </span>Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 19:04:10 INFO  WebServicesLog:55 - Exit from failTest method.
+2024-03-12 19:04:10 INFO  WebServicesLog:109 - Execution status of Test Case number: '1' is : FAIL. Failure reason is: Received incorrect API HttpResponse code. Exp Response Code: 200, Actual Response Code: 400.Exception in PostCode service. Reason:- Cannot invoke "Object.toString()" because the return value of "java.util.HashMap.get(Object)" is null
+2024-03-12 19:04:10 INFO  WebServicesLog:131 - Exit from PostCode method.
+2024-03-12 19:04:10 INFO  WebServicesLog:85 - Exit from serviceRedirection method.
+2024-03-12 19:04:10 INFO  WebServicesLog:242 - Entered in to getFinalResult (String) method.
+2024-03-12 19:04:10 INFO  WebServicesLog:259 - Exit from getFinalResult (String) method.
+2024-03-12 19:04:10 INFO  WebServicesLog:75 - Entered in to createRow method.
+2024-03-12 19:04:10 INFO  WebServicesLog:98 - Exit from createRow method.
+2024-03-12 19:04:10 INFO  WebServicesLog:85 - Execution completed for PostCode. Final result is:FAIL
+2024-03-12 19:04:10 INFO  WebServicesLog:72 - Entered in to endReport method.
+2024-03-12 19:04:11 INFO  WebServicesLog:75 - Exit from endReport method.
+2024-03-12 19:04:11 INFO  WebServicesLog:105 - Exit from executeSuite method

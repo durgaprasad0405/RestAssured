@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+<listeners>
+	<listener class-name="utilities.Report" />
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="driver.DriverScript"/>
+      <!-- <class name="testScripts.dtc"/>  -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- TestSuite -->

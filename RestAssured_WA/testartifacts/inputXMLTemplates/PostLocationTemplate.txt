@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": payload_lat,
+    "lng": payload_lng
+  },
+  "accuracy": payload_accuracy,
+  "name": "payload_name",
+  "phone_number": "payload_phone_number",
+  "address": "payload_address",
+  "types": [
+    "payload_types_1",
+    "payload_types_2"
+  ],
+  "website": "payload_website",
+  "language": "payload_language"
+}

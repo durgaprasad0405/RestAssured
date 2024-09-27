@@ -1,0 +1,6 @@
+{
+    "name": "payload_name",
+    "isbn": "payload_isbn",
+    "aisle": "payload_aisle",
+    "author": "payload_author"
+}
